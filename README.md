@@ -7,7 +7,7 @@
 # -*- coding: utf-8 -*-
 
 
-class Student:
+class Economic_Agent:
 
     def __init__(self):
         self.name = "Shourya Mundra"
